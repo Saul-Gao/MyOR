@@ -170,7 +170,7 @@ bool SMSAliVerification(QByteArray &msg, QString &descript)
     QDateTime dateTime = QDateTime::currentDateTimeUtc();
 
     QString verificationStr = QString("{"
-                                "\"AccessKeyId\" : \"LTAImkpbH8ZRx2PQ\","
+                                "\"AccessKeyId\" : \"xxxxx\","
                                 "\"Timestamp\" : \"%1\","
                                 "\"SignatureMethod\" : \"HMAC-SHA1\","
                                 "\"SignatureVersion\" : \"1.0\","
