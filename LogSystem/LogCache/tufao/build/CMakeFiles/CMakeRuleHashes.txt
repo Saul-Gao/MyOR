@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+7f544ffa4b6f6dc917cf8acf0310a706 CMakeFiles/uninstall
+f2b581f9f289c55bf1b075bfb115cd37 src/CMakeFiles/tufao1_autogen
