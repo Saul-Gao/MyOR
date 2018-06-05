@@ -133,7 +133,7 @@ int main(int argc, char *argv[])
 
     // 使用 HmacSHA1+Base64 进行签名，编码采用 UTF-8
 
-    //QString AccessKeySecret = "aPuo8OXGECXh6GWLyWUbtEQreA2L9E";
+    //QString AccessKeySecret = "xxxxxx";
     QString AccessKeySecret = "testSecret";
     AccessKeySecret.append("&");
 
